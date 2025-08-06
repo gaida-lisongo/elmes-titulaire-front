@@ -6,8 +6,8 @@ import AuthFloatingButton from "@/components/auth/AuthFloatingButton";
 
 export const metadata: Metadata = {
   title:
-    "Next.js E-commerce Dashboard | TailAdmin - Next.js Dashboard Template",
-  description: "This is Next.js Home for TailAdmin Dashboard Template",
+    "ELMES-Service",
+  description: "Platform de gestion des travaux pratiques",
 };
 
 export default function Ecommerce() {
